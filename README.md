@@ -3,8 +3,8 @@ Hi there 👋, I'm Leonhard Leung, a dedicated computer science major with a bur
 
 > 🚀 Future Job: AI engineer <br>
 > 💻 Skills: Java, Python, HTML <br>
-> 📚 Learning: Data Structures and Operating Systems <br>
-> 🔭 I am currently working on my second group prelim project and studying for my upcoming prelim examinations <br>
+> 📚 Learning: Data Structures, Operating Systems, and Human Computer Interaction <br>
+> 🔭 I am currently working on my second midterm group project and studying for my upcoming midterm examinations <br>
 > 📫 How to reach me: leonhardleung@gmail.com
 
 When I'm not working, you'll find me:
