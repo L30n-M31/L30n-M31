@@ -4,7 +4,7 @@ Hi there 👋, I'm Leonhard Leung, a dedicated computer science major with a bur
 > 🚀 Future Job: AI engineer <br>
 > 💻 Skills: Java, Python, HTML <br>
 > 📚 Learning: Data Structures, Operating Systems, and Human Computer Interaction <br>
-> 🔭 I am currently working on my final group project and studying for my upcoming final examinations <br>
+> 🔭 I am currently working on my GradeMinder app and studying for my upcoming final examinations <br>
 > 📫 How to reach me: leonhardleung@gmail.com
 
 When I'm not working, you'll find me:
