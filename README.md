@@ -8,7 +8,7 @@ To become an AI engineer.
 - :books: **Learning:** App development, Web Development, and Game Development
 - :telescope: **Currently working on:** My first-ever game called *Space Cake*
 
-## Skills
+## Tech Stack
 Below are some of the languages I’ve learned over the years:
 
 <img src="./images/Java.svg" alt="Java" width="60" height="60">  <img src="./images/Python.svg" alt="Python" width="60" height="60">  <img src="./images/C--.svg" alt="C#" width="60" height="60">  <img src="./images/Rust.svg" alt="Rust" width="60" height="60">  <img src="./images/HTML.svg" alt="HTML" width="60" height="60">  <img src="./images/CSS.svg" alt="CSS" width="60" height="60">  
