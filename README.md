@@ -11,12 +11,7 @@ To become an AI engineer.
 ## Skills
 Below are some of the languages I’ve learned over the years:
 
-<img src="./images/Java.svg" alt="Java" width="60" height="60">  
-<img src="./images/Python.svg" alt="Python" width="60" height="60">  
-<img src="./images/C--.svg" alt="C#" width="60" height="60">  
-<img src="./images/Rust.svg" alt="Rust" width="60" height="60">  
-<img src="./images/HTML.svg" alt="HTML" width="60" height="60">  
-<img src="./images/CSS.svg" alt="CSS" width="60" height="60">  
+<img src="./images/Java.svg" alt="Java" width="60" height="60">  <img src="./images/Python.svg" alt="Python" width="60" height="60">  <img src="./images/C--.svg" alt="C#" width="60" height="60">  <img src="./images/Rust.svg" alt="Rust" width="60" height="60">  <img src="./images/HTML.svg" alt="HTML" width="60" height="60">  <img src="./images/CSS.svg" alt="CSS" width="60" height="60">  
 
 ## Hobbies
 When I'm not working, you'll find me:
